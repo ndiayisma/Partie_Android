@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgenceImmobiliere</string>
+    <string name="version_name">1.0</string>
+    <string name="main_title">Agence Immobilière</string>"
+    <string name="main_rue">Rue</string>
+    <string name="main_ville">Ville</string>
+    <string name="main_code_postal">Code postal</string>
+    <string name="main_etage">Etage</string>">
+    <string name="main_detail">Détails du bien</string>
+</resources>
